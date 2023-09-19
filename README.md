@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solomwaura
-- 👀 I’m interested in Web Development
+- 👀 I’m a Web Developer
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mail: solomonmicro@gmail.com
