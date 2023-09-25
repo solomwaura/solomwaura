@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon M</h1>
-<h3 align="center">A passionate web developer.</h3>
-<img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47qpvbt7z9jv05pd5bbexmkukvnbh7aeg01w9wzrig&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" />
+<h3 align="center">A full stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomwaura&label=Profile%20views&color=0e75b6&style=flat" alt="solomwaura" /> </p>
 
