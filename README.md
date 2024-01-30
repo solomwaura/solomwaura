@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Chat Application**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP, Nodejs, MongoDb,React**
 
 - 📫 How to reach me **solomonmicro@gmail.com**
 
